@@ -1,0 +1,5 @@
+This program reports information about DNA
+nucleotide sequences that may encode proteins.
+Input file name? ecoli.txt
+Output file name? expected-output-2-file.txt
+
